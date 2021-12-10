@@ -18,7 +18,7 @@ function addOrder() {
       // let body = document.querySelector('.hide')
       // body.getElementsByClassName.display = 'none'
       // document.querySelector('#thanksGif').src = "thanks.gif"
-      // window.location.reload(true)
+      window.location.reload(true);
     }
   });
 }
